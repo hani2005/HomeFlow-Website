@@ -463,7 +463,7 @@ body {
 
 .dates {
   padding: 10px;
-  color: rgba(255, 255, 255, 0.815);
+  color: black;
   font-size: 12px;
   display: flex;
   justify-content: space-between;
